@@ -6,13 +6,16 @@
 
 [Compiler and Virtual Machine](/compiler)
 
-<img src="img/compilerThumb.png?raw=true">
+<a href = compiler.md>
+	<img src="img/compilerThumb.png?raw=true">
+</a>
 
 ---
 
 [Chess AI](/chess)
-
-<img src="img/chessThumb.png?raw=true">
+<a href = chess.md>
+	<img src="img/chessThumb.png?raw=true">
+</a>
 
 ---
 
