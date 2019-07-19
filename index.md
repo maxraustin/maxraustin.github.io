@@ -4,18 +4,17 @@
 
 ## Notable School Projects
 
+---
+
 ### [Compiler and Virtual Machine](/compiler)
 
-<a href = compiler.md>
-	<img src="img/compilerThumb.png?raw=true">
-</a>
+[<img src="img/compilerThumb.png?raw=true">](/compiler)
 
 ---
 
 ### [Chess AI](/chess)
-<a href = chess.md>
-	<img src="img/chessThumb.png?raw=true">
-</a>
+
+[<img src="img/chessThumb.png?raw=true">](/compiler)
 
 ---
 

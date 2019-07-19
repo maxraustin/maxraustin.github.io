@@ -1,4 +1,4 @@
-## Chess AI for UVSChess
+# Chess AI for UVSChess
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Project Description
+## Project Description
 
 ---
 
@@ -26,7 +26,7 @@ competition days.
 
 ---
 
-### The Algorithm
+## The Algorithm
 
 ---
 
@@ -41,7 +41,7 @@ For those interested in code, please see bottom of page.
 
 ---
 
-### Board Evaluation
+## Board Evaluation
 
 ---
 
@@ -65,7 +65,7 @@ more than those on the edges due to having more movement options.
 ---
 
 
-### Important Note about Code
+## Important Note about Code
 
 ---
 
