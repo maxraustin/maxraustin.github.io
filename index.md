@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Notable School Projects
+## Notable School Projects
 
-#### [Compiler and Virtual Machine](/compiler)
+### [Compiler and Virtual Machine](/compiler)
 
 <a href = compiler.md>
 	<img src="img/compilerThumb.png?raw=true">
@@ -12,14 +12,14 @@
 
 ---
 
-#### [Chess AI](/chess)
+### [Chess AI](/chess)
 <a href = chess.md>
 	<img src="img/chessThumb.png?raw=true">
 </a>
 
 ---
 
-### Personal Projects
+## Personal Projects
 
 ---
 

@@ -1,4 +1,4 @@
-## Compiler and Assembler/Virtual Machine
+# Compiler and Assembler/Virtual Machine
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Project Description
+## Project Description
 
 ---
 
@@ -24,7 +24,7 @@ The assembler takes as input an assembly file, which is parsed and converted
 into bytecode which the virtual machine then executes. The instructions as  
 well as more information can be found below.  
 
-### KXI Language
+## KXI Language
 
 ---
 
@@ -48,7 +48,7 @@ The full grammar for the language is included in the file below.
 
 ---
 
-### Assembler Details
+## Assembler Details
 
 ---
 
@@ -64,7 +64,7 @@ The assembly code used by the virtual machine has the following instructions ava
 * CMP : Used to compare data in registers
 * TRP : Used for I/O and stopping the program.
 
-### Important Note about Code
+## Important Note about Code
 
 ---
 
