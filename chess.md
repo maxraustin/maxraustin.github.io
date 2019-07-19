@@ -24,6 +24,8 @@ is only given a small amount of time to make decisions. This is a
 setting used in the chess program, which was set for 5 seconds during  
 competition days.
 
+---
+
 ### The Algorithm
 
 ---
