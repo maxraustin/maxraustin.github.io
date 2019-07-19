@@ -1,18 +1,22 @@
-## Port
+## Portfolio
 
 ---
 
-### Category Name 1
+### Notable School Projects
 
-[Project 1 Title](/sample_page)
-
----
-
-[Project 2 Title](/sample_page)
+[Compiler and Virtual Machine](/sample_page)
 
 ---
 
-### Category Name 2
+[Chess AI](/sample_page)
+
+---
+
+### Personal Projects
+
+---
+
+[Occultus(Unity Video Game)](/sample_page)
 
 ---
 
