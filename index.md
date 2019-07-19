@@ -14,7 +14,7 @@
 
 ### [Chess AI](/chess)
 
-[<img src="img/chessThumb.png?raw=true">](/compiler)
+[<img src="img/chessThumb.png?raw=true">](/chess)
 
 ---
 
@@ -22,7 +22,9 @@
 
 ---
 
-[Occultus(Unity Video Game)](/sample_page)
+[Occultus(Unity Video Game)](/occultus)
+
+[<img src="img/occTitle.png?raw=true">](/chess)
 
 ---
 
