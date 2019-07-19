@@ -14,15 +14,9 @@
 
 This project involves two primary programs, the Compiler and the Assembler/VM:
 
-The compiler takes as input a program written in the KXI language  
-(see grammar below). It performs lexical, syntax and semantic analysis  
-on this file, which is then converted into intermediate code. The  
-intermediate code is then turned into target code, which is output as  
-an assembly file.  
+The compiler takes as input a program written in the KXI language (see grammar below). It performs lexical, syntax and semantic analysis on this file, which is then converted into intermediate code. The intermediate code is then turned into target code, which is output as an assembly file.  
 
-The assembler takes as input an assembly file, which is parsed and  
-converted into bytecode which the virtual machine then executes.  
-The instructions as well as more information can be found below.
+The assembler takes as input an assembly file, which is parsed and converted into bytecode which the virtual machine then executes. The instructions as well as more information can be found below.
 
 ---
 
@@ -30,8 +24,7 @@ The instructions as well as more information can be found below.
 
 ---
 
-KXI is an object-oriented programming language. Some features of the  
-language are described below.
+KXI is an object-oriented programming language. Some features of the language are described below.
 
 |Supported Primitive Data Types|
 |------------------------------|
@@ -70,7 +63,4 @@ The assembly code used by the virtual machine has the following instructions ava
 
 ---
 
-If you are interested in the code for this particular project, please  
-contact me at any of the available contacts I have posted here. The code  
-itself is private to help maintain the integrity of the course at UVU.  
-Thank you for your understanding.
+If you are interested in the code for this particular project, please contact me at any of the available contacts I have posted here. The code itself is private to help maintain the integrity of the course at UVU. Thank you for your understanding.
