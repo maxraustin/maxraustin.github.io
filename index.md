@@ -4,12 +4,14 @@
 
 ### Notable School Projects
 
-####[Compiler and Virtual Machine](/compiler)
+[Compiler and Virtual Machine](/compiler)
+
 <img src="img/compilerThumb.png?raw=true">
 
 ---
 
-####[Chess AI](/chess)
+[Chess AI](/chess)
+
 <img src="img/chessThumb.png?raw=true">
 
 ---

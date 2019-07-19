@@ -50,6 +50,7 @@ adding points for the AIs pieces and subtracting points for the
 opponents pieces based on the values below
 
 |Piece|Value|
+|-----|-----|
 |Pawn| 10|
 |Knight | 30|
 |Bishop | 30|
