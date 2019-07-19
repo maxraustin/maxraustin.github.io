@@ -5,6 +5,7 @@
 ### Notable School Projects
 
 [Compiler and Virtual Machine](/compiler_page)
+<img src="img/compilerThumb.png?raw=true">
 
 ---
 

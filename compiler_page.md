@@ -6,6 +6,8 @@
 
 ---
 
+*Created with C++ using Visual Studio as an IDE*
+
 This project involves two primary programs, which perform as follows:
 
 The compiler takes as input a program written in the KXI language(see grammar below). It performs  
@@ -40,6 +42,8 @@ The full grammar for the language is included in the file below.
 
 ### Assembler Details
 
+---
+
 The assembly code used by the virtual machine has the following instructions available to it.
 
 * ADD/SUB/MUL/DIV/ADI : Math operations that use data in registers to perform computations
@@ -52,5 +56,10 @@ The assembly code used by the virtual machine has the following instructions ava
 * CMP : Used to compare data in registers
 * TRP : Used for I/O and stopping the program.
 
+### Important Note about Code
 
+---
 
+If you are interested in the code for this particular project(if you are employer for example),  
+please contact me at any of the available contacts I have posted here. The code itself is  
+private to help maintain the integrity of the course at UVU. Thank you for your understanding.
