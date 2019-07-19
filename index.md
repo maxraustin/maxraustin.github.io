@@ -24,7 +24,7 @@
 
 [Occultus(Unity Video Game)](/occultus)
 
-[<img src="img/occTitle.png?raw=true">](/chess)
+[<img src="img/occTitle.png?raw=true">](/occultus)
 
 ---
 

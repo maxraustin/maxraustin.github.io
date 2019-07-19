@@ -35,6 +35,7 @@ myself.
 * Two difficulties with different enemy placements/boss moves/mechanics
 * "Pixel perfect" camera using manipulation of resolution scaling in Unity(ie no subpixel movement)
 * Controller support for most major controller types
+* CRT-stylized shader
 
 ---
 
@@ -50,5 +51,3 @@ idea that didn't pan out. Windows 7+
 
 Keep in mind that this was a test build from 2018, and thus has a  
 few bugs and missing features like controller support.
-
----
