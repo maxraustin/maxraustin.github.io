@@ -4,7 +4,7 @@
 
 ### Notable School Projects
 
-[Compiler and Virtual Machine](/sample_page)
+[Compiler and Virtual Machine](/compiler_page)
 
 ---
 
