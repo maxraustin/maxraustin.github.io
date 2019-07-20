@@ -10,7 +10,7 @@
 
 ---
 
-*Created with C# scripting in the Unity game engine*
+*Created with C# utilizing the Unity game engine*
 
 This is an unreleased small project I started while in school. While the game is incomplete, I have released various playable test builds while developing it. Links for those will be at the end for any interested.
 
