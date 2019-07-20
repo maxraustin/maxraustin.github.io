@@ -35,7 +35,7 @@ The game is a 2D side scrolling platformer designed to be similar in overall fee
 
 ---
 
-If you are interested in trying out the game, the last build I released is here, which was originally intended for a Kickstarter idea that didn't pan out. Windows 7+
+If you are interested in trying out the game, the last public build I released is here, which was originally intended for a Kickstarter idea that didn't pan out. Windows 7+
 
 [Dropbox link](https://www.dropbox.com/s/yi03cndst1sdd7q/Occultus%20Kickstarter%20Build.zip?dl=0)
 
