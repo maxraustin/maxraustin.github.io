@@ -4,5 +4,12 @@ logo: "/img/profPic.png?raw=true"
 description : >
     BSc. Computer Science, Utah Valley University
     <br><br>
-    Thanks for checking my page out! Please take a look around. You can contact me using any method below.
+    Thanks for checking my page out! Please take a look around. You can contact me using the email below.
+    <br><br>
+    <script language="JavaScript">
+    var username = "[maxraustin]"
+    var mail = "[gmail.com]"
+    document.write("<a href='" + "mail" + "to:" + username + "@" + mail + "'>" + "Email" + "</a>");
+    </script>
     <br>
+    
