@@ -1,4 +1,4 @@
-#Contact Form
+# Contact
 
 ---
 
@@ -12,8 +12,6 @@
 <input type="hidden" name="_next" value="thanks.md" />
 <input type="text" name="_gotcha" style="display:none" />
 <script>
-    var contactform =  document.getElementById('formaction');
+    var contactform = document.getElementById('formaction');
     contactform.setAttribute('action', '//formspree.io/' + 'maxraustin' + '@' + 'gmail' + '.' + 'com');
 </script>
-
----
