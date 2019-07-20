@@ -1,3 +1,7 @@
+#Contact Form
+
+---
+
 <form id="formaction" method="POST">
 <p>Email: </p><input type="email" name="_replyto"><br>
 <p>Subject: </p><input type="text" name="subject"><br>
@@ -11,3 +15,5 @@
     var contactform =  document.getElementById('formaction');
     contactform.setAttribute('action', '//formspree.io/' + 'maxraustin' + '@' + 'gmail' + '.' + 'com');
 </script>
+
+---
