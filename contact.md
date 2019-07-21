@@ -2,10 +2,13 @@
 
 ---
 
+If you would like to get in contact with me, please fill out and submit the form below, and I'll get to it as soon as I can.
+
 <form id="formaction" method="POST">
-<p>Email: </p><input type="email" name="_replyto"><br>
+<label for="emailID">Email</label>
+<input type="email" name="_replyto" id="emailID><br>
 <p>Subject: </p><input type="text" name="subject"><br>
-<p>Description: </p><textarea name="description" rows="5"></textarea><br>
+<p>Description: </p><textarea name="description" rows="10" cols="80"></textarea><br>
 <input type="submit" value="Send">
 <input type="hidden" name="_next" value="thanks.md" />
 <input type="text" name="_gotcha" style="display:none" />
