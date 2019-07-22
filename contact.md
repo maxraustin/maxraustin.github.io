@@ -7,8 +7,10 @@ If you would like to get in contact with me, please fill out and submit the form
 <form id="formaction" method="POST">
 	<label for="emailID">Email: </label><br>
 	<input type="email" name="_replyto" id="emailID"><br>
-	<p>Subject: </p><input type="text" name="subject"><br>
-	<p>Description: </p><textarea name="description" rows="10" cols="50"></textarea><br>
+	<label for="subID">Subject: </label><br>
+	<input type="text" id="subID" name="subject"><br>
+	<label for="descID">Description: </label><br>
+	<textarea name="description" rows="10" cols="50" id="descID"></textarea><br>
 	<input type="submit" value="Send">
 	<input type="text" name="_gotcha" style="display:none" />
 	<input type="hidden" name="_next" value="https://maxraustin.github.io/contact" />
