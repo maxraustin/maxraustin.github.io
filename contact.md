@@ -4,6 +4,8 @@
 
 If you would like to get in contact with me, please fill out and submit the form below, and I'll get to it as soon as I can.
 
+NOTE: After clicking send you will be taken to Formspree's site to solve a quick captcha for verification.
+
 <form id="formaction" method="POST">
 	<label for="emailID">Email: </label><br>
 	<input type="email" name="_replyto" id="emailID"><br>
