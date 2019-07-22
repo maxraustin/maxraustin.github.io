@@ -15,7 +15,7 @@ NOTE: After clicking send you will be taken to Formspree's site to solve a quick
 	<textarea name="description" rows="10" cols="50" id="descID"></textarea><br>
 	<input type="submit" value="Send">
 	<input type="text" name="_gotcha" style="display:none" />
-	<input type="hidden" name="_next" value="https://maxraustin.github.io/contact" />
+	<input type="hidden" name="_next" value="//maxraustin.github.io/thanks.md" />
 </form>
 <br>
 <script>
