@@ -2,6 +2,8 @@
 
 ## Notable Work Projects
 
+---
+
 ### Database Migration (2023)
 * Helped design and develop solution to move and translate large amounts of production data to a new database system
 * Developed backwards compatible solution that supported both systems during transition period
@@ -24,8 +26,11 @@
 * Worked on ASP.NET project to develop customizable web page for business end
 * Skills Used : C# .NET, Razor/HTML, CSS
 
+---
   
 ## Notable School Projects
+
+---
 
 ### [Compiler and Virtual Machine (September 2018 - April 2019)](/compiler)
 
